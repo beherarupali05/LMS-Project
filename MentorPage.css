@@ -1,0 +1,80 @@
+header.ant-layout-header {
+    background-color:white;
+    width: 1530px;
+}
+
+div.ant-layout-sider {
+    background-color: white;
+    /* height: 300px; */
+    /* width: 60px; */
+    min-width: 20px !important;
+    max-width: 40px !important;
+}
+
+main.ant-layout-content {
+    height: 320px;
+    width: 1000px;
+}
+
+img.navbarimg {
+   margin-right: 400px;
+}
+
+span.ant-input-affix-wrapper {
+    background-color: #BCBCCB;
+    width: 400px;
+    margin-left: 30px;
+}
+
+input.ant-input {
+    background-color: #BCBCCB;
+    width: 400px;
+}
+
+button.ant-btn.ant-btn-default {
+    color: #075575;
+    border-color: #086288;
+    margin-left: 298px;
+
+}
+
+.img1 {
+    background-color: #075575;
+}
+
+h1.h1 {
+    color: #086288;
+    font-size: x-small;
+
+}
+
+h2.h2 {
+    color: #086288;
+    font-size: x-small;
+}
+
+h3.h3 {
+    color: #086288;
+    font-size: x-small;
+}
+
+ aside.ant-layout-sider.ant-layout-sider-dark{
+    /* width: 10px; */
+    min-width: 30px !important;
+    max-width: 50px !important;
+    background-color: white;
+} 
+form.d-flex{
+    margin-left: 650px;
+    width: 700px;
+    
+}
+button.ant-btn.ant-btn-default {
+    color: white;
+    border-color: #FAA81D;
+    margin-left: 300px;
+    background-color: #FAA81D;
+}
+main.ant-layout-content{
+    width: 1800px;
+}
